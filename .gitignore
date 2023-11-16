@@ -1,1 +1,6 @@
 **/data
+**/notebooks/.ipynb_checkpoints
+**/notebooks/x-file
+**/notebooks/x-files
+**/notebooks/mydict
+**/notebooks/mlp.params
